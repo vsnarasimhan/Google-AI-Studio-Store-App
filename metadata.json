@@ -1,0 +1,7 @@
+{
+  "name": "Fast Chennai",
+  "description": "A vibrant fast-food management and storefront application with real-time inventory, revenue tracking, and AI-powered insights for a modern South Indian eatery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
